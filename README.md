@@ -2,7 +2,7 @@
 
 **I you have to download some packages in poetry use this syntax this will add the package with latest version to _pyproject.toml_ `poetry add (any package name)` _replace `any package name` with the desire package_**
 
-**`http://127.0.0.1:8000/docs` opens a swagger UI called `Mock sserver` useful for testing the routes of pages like here we have `home` `piaic`**
+**`http://127.0.0.1:8000/docs` opens a swagger UI called `Mock server` useful for testing the routes of pages like here we have `home` `piaic`**
 
 
 1. `poetry new fastapi_helloworld_online`
